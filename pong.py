@@ -42,8 +42,8 @@ ball.penup()
 ball.goto(0, 0)
 ball.dx = 2
 ball.dy = 2
-ball.dx = .5/5
-ball.dy = .5/5
+# ball.dx = .5/5
+# ball.dy = .5/5
 
 pen = turtle.Turtle()
 pen.speed(0)
